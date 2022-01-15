@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = L.mohamud502@hotmail.co.uk
+	name = Liban Abdulahi
